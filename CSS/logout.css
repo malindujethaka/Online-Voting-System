@@ -1,0 +1,38 @@
+#c1{	
+	margin-top:150px;
+	margin-left:35%;
+	width:450px;
+	height:500px;
+    border: 2px solid white;
+	background-color:grey;
+	display:block;
+	padding:20px;
+}
+.d1{
+	
+	margin-left:190px;
+	color:white;
+	font-size:20px;
+}
+.d2{
+	margin-left:120px;
+	color:white;
+	font-size:20px;
+}
+.d3{
+	font-size:15px;
+	margin-left:130px;
+	height:40px;
+	width:200px;
+	margin-top:50px;
+	padding-right:20px;
+	background-color:#4682B4;
+}
+.d3:hover{
+	background-color:#00FF7F;
+}
+.d4{
+	margin-left:120px;
+	border:2px solid black;
+	border-radius:100px;
+}
